@@ -19,7 +19,7 @@ def vidoy():
     }
 
     r = requests.get(
-        "https://vidtronx.com/embed.php",
+        "https://vidgf.com/embed.php",
         params={"bucket": "vidoycdn", "id": vid},
         headers=headers,
         timeout=15
